@@ -1,0 +1,32 @@
+.LoadingPlaceholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #060c08; 
+}
+
+.LoadingPlaceholder i{
+    color: white;
+}
+
+
+
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  @media (max-width: 768px) {
+    .LoadingPlaceholder {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 92vh;
+      background-color: #060c08; 
+  }
+  }
