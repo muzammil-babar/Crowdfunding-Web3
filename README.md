@@ -1,1 +1,1 @@
-[thi](https://thirdnest.netlify.app/)
+[thirdnest website](https://thirdnest.netlify.app/)
